@@ -15,9 +15,6 @@
         },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "io.lumiere.bizzybody"
-        },
-        "phonegap-plugin-push-parse": {
-            "PACKAGE_NAME": "io.lumiere.bizzybody"
         }
     },
     "dependent_plugins": {}

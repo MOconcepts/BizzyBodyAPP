@@ -23,11 +23,6 @@
         "is_top_level": true,
         "variables": {}
     },
-    "phonegap-plugin-push-parse": {
-        "source": {
-            "type": "registry",
-            "id": "parse-phonegap-plugin-push"
-        },
         "is_top_level": true,
         "variables": {}
     }
