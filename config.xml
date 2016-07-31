@@ -11,6 +11,9 @@
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <preference name="phonegap-version" value="cli-6.3.0" />
+    <preference name="windows-appx-target" value="uap" />
+    <preference name="windows-appx-target" value="8.1-win" />
+    <preference name="windows-appx-target" value="8.1-phone" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
