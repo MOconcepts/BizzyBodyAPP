@@ -9,6 +9,15 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.lumiere.bizzybody"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.lumiere.bizzybody"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.lumiere.bizzybody"
+        },
+        "phonegap-plugin-push-parse": {
+            "PACKAGE_NAME": "io.lumiere.bizzybody"
         }
     },
     "dependent_plugins": {}

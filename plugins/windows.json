@@ -9,6 +9,15 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "BizzyBodyNG"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "BizzyBodyNG"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "BizzyBodyNG"
+        },
+        "phonegap-plugin-push-parse": {
+            "PACKAGE_NAME": "BizzyBodyNG"
         }
     },
     "dependent_plugins": {}
